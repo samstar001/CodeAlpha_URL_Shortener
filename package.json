@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +19,8 @@
   },
   "homepage": "https://github.com/samstar001/CodeAlpha_URL_Shortener#readme",
   "dependencies": {
-    "better-sqlite3": "^13.0.3",
-    "express": "^5.2.1",
-    "nanoid": "^3.3.19"
+    "better-sqlite3": "^11.3.0",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
   }
 }
